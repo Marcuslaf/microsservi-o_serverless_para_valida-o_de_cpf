@@ -1,5 +1,7 @@
 # Validação de CPF com Azure Functions
 
+Faz parte do desafio da Dio onde criamos um Microsserviço Serverless para Validação de CPF.
+
 Este projeto implementa uma Azure Function para validar CPFs (Cadastro de Pessoas Físicas) utilizando C#.
 
 ## Estrutura do Projeto
